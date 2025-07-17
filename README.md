@@ -36,5 +36,5 @@ This repository provides a complete **MATLAB/Simulink model** of a **Totem-Pole 
 - Performance analysis of PFC topologies
 
 
-**Developed by [AVULA NITHEESH]
+Developed by [AVULA NITHEESH]
 
