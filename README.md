@@ -35,10 +35,6 @@ This repository provides a complete **MATLAB/Simulink model** of a **Totem-Pole 
 - Design validation of Totem-Pole PFC
 - Performance analysis of PFC topologies
 
-## 📄 License
-Licensed under the MIT License.
 
----
-
-**Developed by [Your Name / Institution Name]**
+**Developed by [AVULA NITHEESH]
 
